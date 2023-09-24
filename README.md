@@ -28,9 +28,19 @@ Here are some common configuration options:
 enabled: true
 
 # Threshold for detecting values
-threshold:
-  speed: 2.0
-  fly: 0.2
+AntiHack:
+    enabled: true
+    threshold:
+        fly: 0.3 # hreshold for detecting values
+        speed: 0.78 # This is speed, This will not calculate the potion speed.
+        speed_Level1: 0.8 #Threshold after using speed effect(Level 1)
+        speed_Level2: 0.84 #Threshold after using speed effect(Level 2)
+        Level3UP: 0.25 #Every time the effect rises by 1 level, this value will be used to increase the threshold.
+
+GameMode:
+    enabled: true
+    SPECTATOR: "!c"
+    SURVIVAL: "!s"
 ```
 
 
