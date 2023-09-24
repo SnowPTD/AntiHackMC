@@ -1,6 +1,6 @@
 # AntiHackMC Minecraft plugins
 
-[![Version](https://img.shields.io/badge/版本-v1.0.0-blue.svg)](https://github.com/yourusername/antihackmc)
+[![Version](https://img.shields.io/badge/版本-v1.2.2-blue.svg)](https://github.com/yourusername/antihackmc)
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-green.svg)](https://www.minecraft.net/)
 
 AntiHackMC is an anti-cheating plug-in for Minecraft servers, which aims to provide a safe and fair gaming environment. This plugin uses various detection techniques to check whether players have used any cheating programs or illegal modifications.
