@@ -31,6 +31,8 @@ enabled: true
 threshold:
   speed: 2.0
   fly: 0.2
+```
+
 
 ## Death record
 If you die in the game, the plugin will send you a message
