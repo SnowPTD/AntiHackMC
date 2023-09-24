@@ -47,3 +47,5 @@ GameMode:
 ## Death record
 If you die in the game, the plugin will send you a message
 The message like this: [AntiHackMC] You die in X:00 Y:00 Z:00 World:World
+
+## If you like it, please give me a star
