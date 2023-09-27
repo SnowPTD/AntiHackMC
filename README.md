@@ -48,4 +48,15 @@ GameMode:
 If you die in the game, the plugin will send you a message
 The message like this: [AntiHackMC] You die in X:00 Y:00 Z:00 World:World
 
+## Minecraft Chat sync
+```yaml
+SRV:
+    enabled: true
+
+    BOTTOKEN: "XXXX.X" # The bot Token
+    DiscordGuildID: 0000000000 # Your discord guild ID
+    MainChannel: 0000000000 # You want your channel ID
+    Custom_message_blocking: "---> " # This is Custom message blocking, like: "[Name][Custom_message_blocking][Message]","Snowball_213 ---> XXX"
+```
+
 ## If you like it, please give me a star
