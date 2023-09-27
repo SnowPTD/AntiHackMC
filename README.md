@@ -10,6 +10,7 @@ AntiHackMC is an anti-cheating plug-in for Minecraft servers, which aims to prov
 - **Anti Hack**：AntiHackMC Can prevent fast cheats
 - **Custom configuration**：you can customize the plug-in configuration according to the needs of the server to achieve the best gaming experience and detection results.
 - **Simple and easy to use**：Installing and configuring AntiHackMC is very simple, just put the plug-in file into the server's plug-in directory to start using it.
+- **Minecraft Chat sync** : You can chat with each other between Discord and minecraft
 
 ## download
 
